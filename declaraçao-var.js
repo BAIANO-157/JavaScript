@@ -1,4 +1,4 @@
-function exmploVar() {
+function exemploVar() {
     var x = 10;
     if (true) {
        var x = 20; // memsma variavel x e redeclarada dentro do bloco
@@ -7,4 +7,4 @@ function exmploVar() {
     console.log(x); // 20 (o valor foi alterado)
 }
 
-exmploVar();
+exemploVar();
