@@ -1,4 +1,7 @@
 function exemploVar() {
+    console.log(x);
+
+    
     var x = 10;
     if (true) {
        var x = 20; // memsma variavel x e redeclarada dentro do bloco
