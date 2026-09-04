@@ -1,0 +1,10 @@
+function exemploLet() {
+    var x = 10;
+    if (true) {
+       let x = 20; // memsma variavel x e redeclarada dentro do bloco
+       console.log(x); // 20 (dentro do bloco)
+    }
+    console.log(x); // 10 (fora do bloco )
+}
+
+exemploLet();
