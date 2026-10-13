@@ -1,0 +1,12 @@
+// 10. Qual é o resultado da operação de módulo (%) no código abaixo?  
+
+let totalDoces = 10; 
+let criancas = 3;
+totalDoces %= criancas; 
+
+/*
+A) 3  
+B) 1  (correto)
+C) 0  
+D) 3.33 
+*/

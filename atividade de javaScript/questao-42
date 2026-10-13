@@ -1,0 +1,13 @@
+//42. Analise o código abaixo e marque a opção correta: 
+
+let texto = ""; 
+for (let i = 1; 
+    i <= 3; i++) { 
+        exto += "A"; 
+} 
+
+/*
+A) texto será "AAA"  (correto)
+B) texto será "A"  
+C) texto será 3  D) Erro, não se pode somar letras.
+*/

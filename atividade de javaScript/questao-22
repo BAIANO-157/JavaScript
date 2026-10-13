@@ -1,0 +1,21 @@
+//22. Analise o código abaixo. Qual o primeiro e o último número impresso? 
+
+for (let i = 0; i < 3; i++) {
+    console.log(i); } 
+
+    /*
+    A) 1 a 3  
+    B) 0 a 2  (correto)
+    C) 0 a 3  
+    D) 1 a 2 
+    *///22. Analise o código abaixo. Qual o primeiro e o último número impresso? 
+
+for (let i = 0; i < 3; i++) {
+    console.log(i); } 
+
+    /*
+    A) 1 a 3  
+    B) 0 a 2  (correto)
+    C) 0 a 3  
+    D) 1 a 2 
+    */

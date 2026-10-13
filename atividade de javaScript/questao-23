@@ -1,0 +1,12 @@
+//23. O que acontece se a condição do for for deixada vazia, como em 
+
+for (let i = 0; ; i++) {
+    console.log(i);
+}
+
+/*
+A) O laço nunca executa.  
+B) O laço executa apenas uma vez.  
+C) O laço se torna infinito.  (correta)
+D) O JavaScript gera um erro de sintaxe imediatamente. 
+*/
